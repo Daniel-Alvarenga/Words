@@ -35,12 +35,12 @@ python -m venv venv
 ```
 Install dependencies
 ```bash
-pip install -r requirements.py
+pip install -r src/requirements.txt
 ```
 
 Run game.py
 ```bash
-python game.py
+python src/game.py
 ```
 
 ## Contributing
