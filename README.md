@@ -1,8 +1,9 @@
 # WORDS
 
-![GitHub stars](https://img.shields.io/github/stars/daniel-alvarenga/Words)
+[![GitHub license](https://img.shields.io/github/license/daniel-alvarenga/words)](vitorcarvalho67/Boot/blob/master/LICENSE)
 ![GitHub languages top](https://img.shields.io/github/languages/top/daniel-alvarenga/Words)
 [![GitHub contributors](https://img.shields.io/github/contributors/daniel-alvarenga/Words)](https://github.com/daniel-alvarenga/Words/graphs/contributors)
+![GitHub stars](https://img.shields.io/github/stars/daniel-alvarenga/Words)
 
 Simple offline terminal game inspired by the classic [Termo](https://term.ooo), brazilian version of [Wordle](https://www.nytimes.com/games/wordle/).
 
