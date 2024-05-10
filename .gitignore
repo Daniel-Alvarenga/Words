@@ -2,3 +2,4 @@ __pycache__
 gen/build/
 gen/dist/
 gen/venv/
+data/
