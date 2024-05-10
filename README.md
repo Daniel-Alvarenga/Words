@@ -20,6 +20,8 @@ The game consists of getting a five-letter word correct in 7 attempts. For each 
 > [!Note]
 > Depending on the terminal used, colors may not be displayed correctly due to the lack of support for ANSI escape codes. It is recommended to test the program on different terminals to ensure the best possible user experience.
 
+You can download and execute the [release](https://github.com/Daniel-Alvarenga/Words/releases/tag/game) or:
+
 Clone the repository
 ```bash
 git clone https://github.com/Daniel-Alvarenga/Words
